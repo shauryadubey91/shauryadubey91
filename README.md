@@ -86,7 +86,9 @@
 
 - 🤖 **Saarthi AI (Chatbot Project)** *(In Progress)*  
   → AI-powered chatbot supporting Hindi & English  
-  → Offline + Online hybrid system   
+  → Hybrid system (Offline + Online capabilities)  
+  → Focused on real-time intelligent responses & context handling  
+  🔗 https://github.com/shauryadubey91/Saarthi-AI
 
 ---
 
