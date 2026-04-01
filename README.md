@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm Shaurya Dubey
 
-<!--
-**shauryadubey91/shauryadubey91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI/ML Student | Python Developer  
+💡 Building Real World Projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- 🎓 BTech CSE (AI/ML)
+- 🤖 Interested in Machine Learning & AI
+- 🚀 Currently building ML projects
+- 📈 Goal: Crack top tech internships
+
+---
+
+## ⚙️ Tech Stack
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-green?style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge)
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=shauryadubey91&show_icons=true&theme=radical)
+
+---
+
+## 🔥 Streak Stats
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=shauryadubey91&theme=radical)
+
+---
+
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=shauryadubey91&theme=radical)
+
+---
+
+## 📈 Activity Graph
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=shauryadubey91&theme=react-dark)
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: (add your link)
+- Email: sauryadubey91@gmail.com
